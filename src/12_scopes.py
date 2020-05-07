@@ -29,6 +29,6 @@ def outer():
     # 999?
     # Note: Google "python nested function scope".
     print(y)
-
+    
 
 outer()
