@@ -10,3 +10,10 @@ num = int(num)
 
 # YOUR CODE HERE
 
+def check_evens(input):
+    if(input%2 == 0):
+        print('EVEN!')
+    else:
+        print("ODD!")
+
+check_evens(num)
